@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 data/
 .ipynb_checkpoints/
+scene
+models
+textures
 

@@ -1,0 +1,2 @@
+g++ -o scene src/interfaz.cpp -Wall -I/usr/include/SOIL -lGLEW -lglut -lSOIL -lopenctm -lGL -lGLU 
+sudo apt install libglew-dev freeglut3-dev libsoil-dev libopenctm-dev 

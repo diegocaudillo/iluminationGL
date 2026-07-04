@@ -2,6 +2,7 @@
 
 A real-time 3D scene viewer with shader support, written in C++ using OpenGL. Loads scenes defined in config files, supporting multiple meshes, textures, and GLSL shaders. Originally developed circa 2010 at CIMAT.
 
+This project is no longer maintained and is provided as-is, without warranty of any kind.
 ---
 
 ## Dependencies
